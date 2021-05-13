@@ -11,4 +11,4 @@ https://errollinsjr.github.io/ASCII-table-password-genetator/
 
 # Screenshot
 
-![Rollins' Portfolio](./password-generator-screensShot.png)
+![Rollins' Password Generator](./password-generator-screensShot.png)

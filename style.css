@@ -14,8 +14,7 @@ body,
 
 body {
   font-family: sans-serif;
-  background-color: #f9fbfd;
-  background-image: url("../Assets/cool-background.png");
+  background-image: url("./cool-background.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
