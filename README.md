@@ -7,8 +7,8 @@ A password generator utilizing the ASCII table
 # Link
 
 pages:
-https://errollinsjr.github.io/Rollins-Portfolio/
+https://errollinsjr.github.io/ASCII-table-password-genetator/
 
 # Screenshot
 
-![Rollins' Portfolio](./web.png)
+![Rollins' Portfolio](./password-generator-screensShot.png)
