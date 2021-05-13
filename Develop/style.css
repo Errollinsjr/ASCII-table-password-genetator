@@ -119,7 +119,7 @@ button[disabled] {
   color: black;
   padding: 1rem;
   border: 1px solid #333;
-  height: 2rem;
+  height: 9rem;
   display: flex;
   justify-content: center;
   align-items: center;
